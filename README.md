@@ -19,11 +19,6 @@ I'm a master student hydrogeology and mineral resources at Ghent University, Bel
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeVandekerckhove&theme=github-dark-blue&hide_border=true" alt="GuillaumeVandekerckhove" />
 </p>
 
-### Recent activity
-
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->
 
 ### Connect
 <td >
