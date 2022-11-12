@@ -19,23 +19,17 @@ I'm a master student hydrogeology and mineral resources at Ghent University, Bel
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeVandekerckhove&theme=github-dark-blue&hide_border=true" alt="GuillaumeVandekerckhove" />
 </p>
 
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+⚡ Recent GitHub Activity</summary>
+
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 
 ### Connect
 <td >
     <a href="https://www.linkedin.com/in/guillaume-vandekerckhove"/><img src="https://user-images.githubusercontent.com/79251807/201449314-7f30a723-3b7e-45f2-b99b-093f8d9ce971.png" width="30" alt="LinkedIn logo"/></a>
 </td>
     
-<!--
-**GuillaumeVandekerckhove/GuillaumeVandekerckhove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
