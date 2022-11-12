@@ -23,9 +23,9 @@ I'm a master student hydrogeology and mineral resources at Ghent University, Bel
 ⚡ Recent GitHub Activity</summary>
 
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
 
 
 ### Connect
