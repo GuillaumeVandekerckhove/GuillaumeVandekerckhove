@@ -18,11 +18,6 @@ jobs:
         with:
           CONFIG_FILE: "./.github/update-readme.config.yml"
 
-      - uses: actions-js/profile-readme@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: GuillaumeVandekerckhove
-
       - uses: actions-js/push@v1.3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
