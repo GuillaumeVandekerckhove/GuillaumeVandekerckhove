@@ -12,11 +12,11 @@ I'm a master student hydrogeology and mineral resources at Ghent University, Bel
 
 ### Stats
 
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=GuillaumeVandekerckhove&theme=react-dark)
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=GuillaumeVandekerckhove&line=2C60D2&theme=high-contrast)
 <p>
 <!--img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuillaumeVandekerckhove&show_icons=true&theme=dark&hide_border=true" alt="GuillaumeVandekerckhove" /--> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=dark&hide_border=true" alt="GuillaumeVandekerckhove" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeVandekerckhove&theme=dark&hide_border=true" alt="GuillaumeVandekerckhove" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=github_dark&hide_border=true" alt="GuillaumeVandekerckhove" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeVandekerckhove&theme=github-dark-blue&hide_border=true" alt="GuillaumeVandekerckhove" />
 </p>
 
 ### Recent activity
