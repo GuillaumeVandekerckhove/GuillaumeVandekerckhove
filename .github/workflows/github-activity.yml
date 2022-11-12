@@ -3,7 +3,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/60 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -22,7 +22,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           username: GuillaumeVandekerckhove
-          template: "TEMPLATE.md"
 
       - uses: actions-js/push@v1.3
         with:
