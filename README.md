@@ -11,11 +11,18 @@ I'm a master student hydrogeology and mineral resources at Ghent University, Bel
 </td>
 
 ### Stats
+ # replace username with your own or change theme
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=GuillaumeVandekerckhove&theme=rogue)
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuillaumeVandekerckhove&show_icons=true&theme=highcontrast&hide_border=true" alt="GuillaumeVandekerckhove" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=highcontrast&hide_border=true" alt="GuillaumeVandekerckhove" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeVandekerckhove&theme=highcontrast&hide_border=true" alt="GuillaumeVandekerckhove" />
 </p>
+
+### Recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ### Connect
 <td >
