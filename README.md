@@ -24,15 +24,15 @@ I'm a master student hydrogeology and mineral resources at Ghent University, Bel
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [GuillaumeVandekerckhove/pysgems](https://github.com/GuillaumeVandekerckhove/pysgems)
-2. ⬆️ Pushed 16 commit(s) to [GuillaumeVandekerckhove/pysgems](https://github.com/GuillaumeVandekerckhove/pysgems)
-3. 💪 Opened PR [#126](https://github.com/robinthibaut/pysgems/pull/126) in [robinthibaut/pysgems](https://github.com/robinthibaut/pysgems)
-4. ⬆️ Pushed 6 commit(s) to [GuillaumeVandekerckhove/pysgems](https://github.com/GuillaumeVandekerckhove/pysgems)
-5. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/pysgems](https://github.com/GuillaumeVandekerckhove/pysgems)
+1. ⬆️ Pushed 3 commit(s) to [GuillaumeVandekerckhove/pysgems](https://github.com/GuillaumeVandekerckhove/pysgems)<br>
+2. ⬆️ Pushed 16 commit(s) to [GuillaumeVandekerckhove/pysgems](https://github.com/GuillaumeVandekerckhove/pysgems)<br>
+3. 💪 Opened PR [#126](https://github.com/robinthibaut/pysgems/pull/126) in [robinthibaut/pysgems](https://github.com/robinthibaut/pysgems)<br>
+4. ⬆️ Pushed 6 commit(s) to [GuillaumeVandekerckhove/pysgems](https://github.com/GuillaumeVandekerckhove/pysgems)<br>
+5. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/pysgems](https://github.com/GuillaumeVandekerckhove/pysgems)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 4th, 2023, 1:14:28 PM
+Last Updated: Wednesday, January 4th, 2023, 2:06:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
