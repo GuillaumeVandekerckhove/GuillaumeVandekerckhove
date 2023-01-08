@@ -25,14 +25,14 @@ I'm a master student hydrogeology and mineral resources at Ghent University, Bel
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/pysgems](https://github.com/GuillaumeVandekerckhove/pysgems)<br>
-2. ⬆️ Pushed 3 commit(s) to [GuillaumeVandekerckhove/pysgems](https://github.com/GuillaumeVandekerckhove/pysgems)<br>
+2. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/pysgems](https://github.com/GuillaumeVandekerckhove/pysgems)<br>
 3. ⬆️ Pushed 3 commit(s) to [GuillaumeVandekerckhove/pysgems](https://github.com/GuillaumeVandekerckhove/pysgems)<br>
-4. ⬆️ Pushed 16 commit(s) to [GuillaumeVandekerckhove/pysgems](https://github.com/GuillaumeVandekerckhove/pysgems)<br>
-5. 💪 Opened PR [#126](https://github.com/robinthibaut/pysgems/pull/126) in [robinthibaut/pysgems](https://github.com/robinthibaut/pysgems)<br>
+4. ⬆️ Pushed 3 commit(s) to [GuillaumeVandekerckhove/pysgems](https://github.com/GuillaumeVandekerckhove/pysgems)<br>
+5. ⬆️ Pushed 16 commit(s) to [GuillaumeVandekerckhove/pysgems](https://github.com/GuillaumeVandekerckhove/pysgems)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 8th, 2023, 12:10:12 PM
+Last Updated: Sunday, January 8th, 2023, 1:10:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
