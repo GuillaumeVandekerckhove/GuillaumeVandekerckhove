@@ -24,13 +24,14 @@ I'm a data analyst at 'Departement Omgeving'.
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/pysgems](https://github.com/GuillaumeVandekerckhove/pysgems)<br>
+1. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/GuillaumeVandekerckhove](https://github.com/GuillaumeVandekerckhove/GuillaumeVandekerckhove)<br>
 2. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/pysgems](https://github.com/GuillaumeVandekerckhove/pysgems)<br>
-3. ⬆️ Pushed 3 commit(s) to [GuillaumeVandekerckhove/pysgems](https://github.com/GuillaumeVandekerckhove/pysgems)<br>
+3. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/pysgems](https://github.com/GuillaumeVandekerckhove/pysgems)<br>
+4. ⬆️ Pushed 3 commit(s) to [GuillaumeVandekerckhove/pysgems](https://github.com/GuillaumeVandekerckhove/pysgems)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 13th, 2023, 3:05:23 PM
+Last Updated: Monday, March 13th, 2023, 4:08:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
