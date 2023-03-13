@@ -2,8 +2,8 @@ Hydrogeology | Geostatistics
 
 ### About
 
-I'm a master student hydrogeology and mineral resources at Ghent University, Belgium.
-- 🔭 I’m currently working on the creation of a geostatistical data analysis tool in python.
+I'm a data analyst at 'Departement Omgeving'.
+- 🔭 I’m currently working on the expansion, update and fine-tuning of a geostatistical data analysis tool in python.
 
 ### Language
 <td >
