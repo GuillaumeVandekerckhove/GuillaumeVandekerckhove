@@ -11,13 +11,11 @@ I'm a data analyst at 'Departement Omgeving'.
 ### Stats
 
 ![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuillaumeVandekerckhove&line=2C60D2&theme=high-contrast)
-<p>
-<div><img style="height: auto; width: 47%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Tsvetoslav88&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" /></div>
 
-<!--img width="40%" src= /--> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=github_dark&hide_border=true" alt="GuillaumeVandekerckhove" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeVandekerckhove&theme=github-dark-blue&hide_border=true" alt="GuillaumeVandekerckhove" />
-</p>
+<div><img style="height: auto; width: 47%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=github_dark"/>
+<img style="height: auto; width: 50%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeVandekerckhove&theme=github-dark-blue"/>
+</div>
+
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 ⚡ Recent GitHub Activity</summary>
