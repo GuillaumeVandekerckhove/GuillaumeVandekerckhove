@@ -6,15 +6,15 @@ I'm a data analyst at 'Departement Omgeving'.
 - 🔭 I’m currently working on the expansion, update and fine-tuning of a geostatistical data analysis tool in python.
 
 ### Language
-<td >
-    <img src="https://user-images.githubusercontent.com/79251807/201449571-fe981b45-0a34-47fa-9a01-4b54d6bdb5f4.png" width="30" alt="Python logo"/></a>
-</td>
+![language](https://github-readme-stats.vercel.app/api/top-langs?username=GuillaumeVandekerckhove&show_icons=true&theme=dark&hide_border=true) 
 
 ### Stats
 
 ![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuillaumeVandekerckhove&line=2C60D2&theme=high-contrast)
 <p>
-<!--img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuillaumeVandekerckhove&show_icons=true&theme=dark&hide_border=true" alt="GuillaumeVandekerckhove" /--> 
+<div><img style="height: auto; width: 47%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Tsvetoslav88&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" /></div>
+
+<!--img width="40%" src= /--> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=github_dark&hide_border=true" alt="GuillaumeVandekerckhove" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeVandekerckhove&theme=github-dark-blue&hide_border=true" alt="GuillaumeVandekerckhove" />
 </p>
