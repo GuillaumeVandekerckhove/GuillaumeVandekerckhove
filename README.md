@@ -12,7 +12,7 @@ I'm a data analyst at 'Departement Omgeving'.
 
 ### Stats
 
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=GuillaumeVandekerckhove&line=2C60D2&theme=high-contrast)
+![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuillaumeVandekerckhove&line=2C60D2&theme=high-contrast)
 <p>
 <!--img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuillaumeVandekerckhove&show_icons=true&theme=dark&hide_border=true" alt="GuillaumeVandekerckhove" /--> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=github_dark&hide_border=true" alt="GuillaumeVandekerckhove" />
