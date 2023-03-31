@@ -23,14 +23,14 @@ I'm a data analyst at 'Departement Omgeving'.
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-2. ⬆️ Pushed 2 commit(s) to [DOV-Vlaanderen/pygeostat](https://github.com/DOV-Vlaanderen/pygeostat)<br>
-3. 🎉 Merged PR [#1](https://github.com/DOV-Vlaanderen/pygeostat/pull/1) in [DOV-Vlaanderen/pygeostat](https://github.com/DOV-Vlaanderen/pygeostat)<br>
-4. 💪 Opened PR [#1](https://github.com/DOV-Vlaanderen/pygeostat/pull/1) in [DOV-Vlaanderen/pygeostat](https://github.com/DOV-Vlaanderen/pygeostat)<br>
-5. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/GuillaumeVandekerckhove](https://github.com/GuillaumeVandekerckhove/GuillaumeVandekerckhove)<br>
+2. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+3. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+4. ⬆️ Pushed 2 commit(s) to [DOV-Vlaanderen/pygeostat](https://github.com/DOV-Vlaanderen/pygeostat)<br>
+5. 🎉 Merged PR [#1](https://github.com/DOV-Vlaanderen/pygeostat/pull/1) in [DOV-Vlaanderen/pygeostat](https://github.com/DOV-Vlaanderen/pygeostat)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 31st, 2023, 9:06:13 AM
+Last Updated: Friday, March 31st, 2023, 10:06:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
