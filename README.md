@@ -22,15 +22,15 @@ I'm a data analyst at 'Departement Omgeving'.
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [GuillaumeVandekerckhove/pygada](https://github.com/GuillaumeVandekerckhove/pygada)<br>
+1. ⬆️ Pushed 5 commit(s) to [GuillaumeVandekerckhove/pygada](https://github.com/GuillaumeVandekerckhove/pygada)<br>
 2. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-3. ⬆️ Pushed 6 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-4. 🎉 Merged PR [#4](https://github.com/DOV-Vlaanderen/pygada/pull/4) in [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-5. 💪 Opened PR [#4](https://github.com/DOV-Vlaanderen/pygada/pull/4) in [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+3. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+4. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+5. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 31st, 2023, 1:11:34 PM
+Last Updated: Friday, March 31st, 2023, 2:05:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
