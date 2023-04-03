@@ -23,14 +23,14 @@ I'm a data analyst at 'Departement Omgeving'.
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-2. ⬆️ Pushed 5 commit(s) to [GuillaumeVandekerckhove/pygada](https://github.com/GuillaumeVandekerckhove/pygada)<br>
-3. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+2. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+3. ⬆️ Pushed 5 commit(s) to [GuillaumeVandekerckhove/pygada](https://github.com/GuillaumeVandekerckhove/pygada)<br>
 4. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
 5. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 3rd, 2023, 10:06:56 AM
+Last Updated: Monday, April 3rd, 2023, 11:03:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
