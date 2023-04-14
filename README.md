@@ -6,7 +6,8 @@ I'm a data analyst at 'Departement Omgeving'.
 - 🔭 I’m currently working on the expansion, update and fine-tuning of a geostatistical data analysis tool in python.
 
 ### Language
-![language](https://github-readme-stats.vercel.app/api/top-langs?username=GuillaumeVandekerckhove&show_icons=true&theme=dark&hide_border=true) 
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeVandekerckhove&show_icons=true&theme=dark&hide_border=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeVandekerckhove&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stats
 
