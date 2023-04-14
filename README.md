@@ -7,9 +7,11 @@ I'm a data analyst at 'Departement Omgeving'.
 
 ### Language
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeVandekerckhove&show_icons=true&theme=dark&hide_border=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeVandekerckhove&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuillaumeVandekerckhove&line=2C60D2&theme=high-contrast)
 
@@ -23,15 +25,15 @@ I'm a data analyst at 'Departement Omgeving'.
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/GuillaumeVandekerckhove](https://github.com/GuillaumeVandekerckhove/GuillaumeVandekerckhove)<br>
+1. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
 2. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-3. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-4. ⬆️ Pushed 8 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-5. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+3. ⬆️ Pushed 8 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+4. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+5. 📖 Created new wiki page [Documentation](https://github.com/DOV-Vlaanderen/pygada/wiki/Documentation) in [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 14th, 2023, 4:07:35 PM
+Last Updated: Friday, April 14th, 2023, 3:05:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
