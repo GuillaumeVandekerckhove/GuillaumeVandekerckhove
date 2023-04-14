@@ -30,7 +30,7 @@ I'm a data analyst at 'Departement Omgeving'.
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 13th, 2023, 11:05:58 PM
+Last Updated: Friday, April 14th, 2023, 12:31:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
