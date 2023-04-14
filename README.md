@@ -13,6 +13,7 @@ I'm a data analyst at 'Departement Omgeving'.
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+
 ![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuillaumeVandekerckhove&line=2C60D2&theme=high-contrast)
 
 <div><img style="height: auto; width: 47%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=github_dark"/>
