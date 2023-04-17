@@ -26,15 +26,15 @@ I'm a data analyst at 'Departement Omgeving'.
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 177 commit(s) to [GuillaumeVandekerckhove/pydov](https://github.com/GuillaumeVandekerckhove/pydov)<br>
-2. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/GuillaumeVandekerckhove](https://github.com/GuillaumeVandekerckhove/GuillaumeVandekerckhove)<br>
-3. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/GuillaumeVandekerckhove](https://github.com/GuillaumeVandekerckhove/GuillaumeVandekerckhove)<br>
-4. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/GuillaumeVandekerckhove](https://github.com/GuillaumeVandekerckhove/GuillaumeVandekerckhove)<br>
-5. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/GuillaumeVandekerckhove](https://github.com/GuillaumeVandekerckhove/GuillaumeVandekerckhove)<br>
+1. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+2. ⭐ Starred [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+3. ⭐ Starred [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+4. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+5. 🔱 Forked [GuillaumeVandekerckhove/awesome-github-profile-readme](https://github.com/GuillaumeVandekerckhove/awesome-github-profile-readme) from [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 17th, 2023, 10:07:14 AM
+Last Updated: Monday, April 17th, 2023, 11:04:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
