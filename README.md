@@ -14,7 +14,7 @@ I'm a data analyst at 'Departement Omgeving'.
 
 
 <details open> 
-  <summary><h3>My Top Open Source Projects</h3></summary>
+  <summary><h4>My Top Open Source Projects</h4></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -25,7 +25,7 @@ I'm a data analyst at 'Departement Omgeving'.
 </details>
 
 <details open> 
-  <summary><h3>Top Projects I've Contributed To</h3></summary>
+  <summary><h4>Top Projects I've Contributed To</h4></summary>
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
@@ -34,8 +34,8 @@ I'm a data analyst at 'Departement Omgeving'.
   </p>
 </details>
 
-<details open> 
-  <summary><h3>Stats</h3></summary>
+<details close> 
+  <summary><h4>Stats</h4></summary>
     
 [![Guillaume's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GuillaumeV)](https://github.com/anuraghazra/github-readme-stats)
 
