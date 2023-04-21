@@ -24,8 +24,7 @@ I'm a data analyst at 'Departement Omgeving'.
   <p align="left">
     
 <a href="https://github.com/DOV-Vlaanderen/pygada"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DOV-Vlaanderen&repo=pygada&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="pygada"></a>
-
-
+      
 </details>
 
 <details open> 
