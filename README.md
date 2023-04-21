@@ -23,7 +23,7 @@ I'm a data analyst at 'Departement Omgeving'.
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
     
-<a href="https://github.com/DOV-Vlaanderen/pygada"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DOV-Vlaanderen&repo=pygada&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="pygada"></a>
+<a href="https://github.com/DOV-Vlaanderen/pygada"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DOV-Vlaanderen&repo=pygada&theme=react&bg_color=1F222E&title_color=FFF000&hide_border=true&icon_color=F8D866&show_icons=false" alt="pygada"></a>
       
 </details>
 
@@ -32,8 +32,8 @@ I'm a data analyst at 'Departement Omgeving'.
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
-    <a href="https://github.com/DOV-Vlaanderen/pydov"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DOV-Vlaanderen&repo=pydov&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="pydov"></a>
-    <a href="https://github.com/robinthibaut/pysgems"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=robinthibaut&repo=pysgems&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="pysgems"></a>
+    <a href="https://github.com/DOV-Vlaanderen/pydov"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DOV-Vlaanderen&repo=pydov&theme=react&bg_color=1F222E&title_color=FFF000&hide_border=true&icon_color=F8D866&show_icons=false" alt="pydov"></a>
+    <a href="https://github.com/robinthibaut/pysgems"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=robinthibaut&repo=pysgems&theme=react&bg_color=1F222E&title_color=FFF000&hide_border=true&icon_color=F8D866&show_icons=false" alt="pysgems"></a>
   </p>
 </details>
 
