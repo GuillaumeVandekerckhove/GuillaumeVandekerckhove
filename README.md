@@ -12,12 +12,9 @@ I'm a data analyst at 'Departement Omgeving'.
 
 ### Tools
 
-### Stats
-
-[![Guillaume's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GuillaumeV)](https://github.com/anuraghazra/github-readme-stats)
 
 <details open> 
-  <summary><h2>My Top Open Source Projects</h2></summary>
+  <summary><h3>My Top Open Source Projects</h3></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -28,7 +25,7 @@ I'm a data analyst at 'Departement Omgeving'.
 </details>
 
 <details open> 
-  <summary><h2>Top Projects I've Contributed To</h2></summary>
+  <summary><h3>Top Projects I've Contributed To</h3></summary>
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
@@ -37,12 +34,11 @@ I'm a data analyst at 'Departement Omgeving'.
   </p>
 </details>
 
+### Stats
 
-![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuillaumeVandekerckhove&line=2C60D2&theme=high-contrast)
+[![Guillaume's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GuillaumeV)](https://github.com/anuraghazra/github-readme-stats)
 
-<div><img style="height: auto; width: 47%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=github_dark"/>
-<img style="height: auto; width: 50%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeVandekerckhove&theme=github-dark-blue"/>
-</div>
+![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuillaumeVandekerckhove&line=FFF000&theme=high-contrast&height=300&hide_border=true)
 
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
@@ -53,13 +49,17 @@ I'm a data analyst at 'Departement Omgeving'.
 1. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/GuillaumeVandekerckhove](https://github.com/GuillaumeVandekerckhove/GuillaumeVandekerckhove)<br>
 2. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/GuillaumeVandekerckhove](https://github.com/GuillaumeVandekerckhove/GuillaumeVandekerckhove)<br>
 3. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/GuillaumeVandekerckhove](https://github.com/GuillaumeVandekerckhove/GuillaumeVandekerckhove)<br>
-4. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/GuillaumeVandekerckhove](https://github.com/GuillaumeVandekerckhove/GuillaumeVandekerckhove)<br>
-5. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/GuillaumeVandekerckhove](https://github.com/GuillaumeVandekerckhove/GuillaumeVandekerckhove)<br>
+4. 🔱 Forked [GuillaumeVandekerckhove/DenverCoder1](https://github.com/GuillaumeVandekerckhove/DenverCoder1) from [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)<br>
+5. 🔱 Forked [GuillaumeVandekerckhove/MarikIshtar007](https://github.com/GuillaumeVandekerckhove/MarikIshtar007) from [MarikIshtar007/MarikIshtar007](https://github.com/MarikIshtar007/MarikIshtar007)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 21st, 2023, 11:05:12 PM
+Last Updated: Friday, April 21st, 2023, 10:12:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
+
+<div><img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=highcontrast&hide_border=true"/>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeVandekerckhove&theme=yellowdark"/>
+</div>
 
 
 
