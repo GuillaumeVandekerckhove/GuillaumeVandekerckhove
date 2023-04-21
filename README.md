@@ -5,8 +5,10 @@ Hydrogeology | Geostatistics | Data-science | Data-analysis
 I'm a data analyst at 'Departement Omgeving'.
 - 🔭 I’m currently working on the expansion, update and fine-tuning of an automated geostatistical data analysis tool in python named [pygada](https://github.com/DOV-Vlaanderen/pygada).
 
-### Languages
-![language](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeVandekerckhove&show_icons=true&theme=dark&hide_border=true) 
+### Connect
+<td >
+    <a href="https://www.linkedin.com/in/guillaume-vandekerckhove"/><img src="https://user-images.githubusercontent.com/79251807/201449314-7f30a723-3b7e-45f2-b99b-093f8d9ce971.png" width="30" alt="LinkedIn logo"/></a>
+</td>
 
 ### Tools
 
@@ -61,8 +63,4 @@ Last Updated: Friday, April 21st, 2023, 10:12:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
-### Connect
-<td >
-    <a href="https://www.linkedin.com/in/guillaume-vandekerckhove"/><img src="https://user-images.githubusercontent.com/79251807/201449314-7f30a723-3b7e-45f2-b99b-093f8d9ce971.png" width="30" alt="LinkedIn logo"/></a>
-</td>
-    
+
