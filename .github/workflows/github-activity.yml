@@ -22,3 +22,8 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: "master"
+
+      - uses: actions/checkout@v2
+      - uses: GuillaumeVandekerckhove/github-activity-readme@commit-username-and-email
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
