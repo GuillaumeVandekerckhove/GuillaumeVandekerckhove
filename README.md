@@ -34,8 +34,9 @@ I'm a data analyst at 'Departement Omgeving'.
   </p>
 </details>
 
-### Stats
-
+<details open> 
+  <summary><h3>Stats</h3></summary>
+    
 [![Guillaume's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GuillaumeV)](https://github.com/anuraghazra/github-readme-stats)
 
 ![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuillaumeVandekerckhove&line=FFF000&theme=high-contrast&height=300&hide_border=true)
@@ -61,5 +62,5 @@ Last Updated: Friday, April 21st, 2023, 10:12:09 PM
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeVandekerckhove&theme=yellowdark"/>
 </div>
 
-
+</details>
 
