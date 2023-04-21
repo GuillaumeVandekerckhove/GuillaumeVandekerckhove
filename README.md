@@ -1,4 +1,4 @@
-Hydrogeology | Geostatistics | Data-analysis
+Hydrogeology | Geostatistics | Data-science | Data-analysis
 
 ### About
 
