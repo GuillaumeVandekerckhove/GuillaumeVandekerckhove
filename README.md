@@ -55,7 +55,7 @@ I'm a data analyst at 'Departement Omgeving'.
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 23rd, 2023, 1:06:58 PM
+Last Updated: Sunday, April 23rd, 2023, 2:03:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div><img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=highcontrast&hide_border=true"/>
