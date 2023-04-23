@@ -37,12 +37,6 @@ I'm a data analyst at 'Departement Omgeving'.
   <a href=""/><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
   <a href=""/><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href=""/><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/></a>
-  <a href=""/><img src=""/></a>
-  <a href=""/><img src=""/></a>
-  <a href=""/><img src=""/></a>
-  <a href=""/><img src=""/></a>
-  <a href=""/><img src=""/></a>
-  <a href=""/><img src=""/></a>
   </p>
   
 
