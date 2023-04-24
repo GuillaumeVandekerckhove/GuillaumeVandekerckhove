@@ -77,15 +77,15 @@ I'm a data analyst at 'Departement Omgeving'.
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-2. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-3. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/GuillaumeVandekerckhove](https://github.com/GuillaumeVandekerckhove/GuillaumeVandekerckhove)<br>
-4. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/GuillaumeVandekerckhove](https://github.com/GuillaumeVandekerckhove/GuillaumeVandekerckhove)<br>
-5. 🔱 Forked [GuillaumeVandekerckhove/gautamkrishnar](https://github.com/GuillaumeVandekerckhove/gautamkrishnar) from [gautamkrishnar/gautamkrishnar](https://github.com/gautamkrishnar/gautamkrishnar)<br>
+1. 💪 Opened PR [#5](https://github.com/DOV-Vlaanderen/pygada/pull/5) in [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+2. 🤝 Became collaborator on [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+3. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+4. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+5. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/GuillaumeVandekerckhove](https://github.com/GuillaumeVandekerckhove/GuillaumeVandekerckhove)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 24th, 2023, 8:08:41 AM
+Last Updated: Monday, April 24th, 2023, 9:06:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div><img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=highcontrast&hide_border=true"/>
