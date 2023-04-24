@@ -78,14 +78,14 @@ I'm a data analyst at 'Departement Omgeving'.
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-2. ❌ Closed PR [#5](https://github.com/DOV-Vlaanderen/pygada/pull/5) in [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-3. ❌ Closed PR [#6](https://github.com/DOV-Vlaanderen/pygada/pull/6) in [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-4. 💪 Opened PR [#6](https://github.com/DOV-Vlaanderen/pygada/pull/6) in [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-5. 💪 Opened PR [#5](https://github.com/DOV-Vlaanderen/pygada/pull/5) in [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+2. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+3. ✌️ Released [v0.1.0](https://github.com/DOV-Vlaanderen/pygada/releases/tag/v0.1.0) in [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+4. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+5. ❌ Closed PR [#5](https://github.com/DOV-Vlaanderen/pygada/pull/5) in [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 24th, 2023, 1:09:36 PM
+Last Updated: Monday, April 24th, 2023, 2:05:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div><img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=highcontrast&hide_border=true"/>
