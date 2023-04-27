@@ -77,15 +77,15 @@ I'm a data analyst at 'Departement Omgeving'.
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#384](https://github.com/DOV-Vlaanderen/pydov/pull/384) in [DOV-Vlaanderen/pydov](https://github.com/DOV-Vlaanderen/pydov)<br>
-2. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/pydov](https://github.com/GuillaumeVandekerckhove/pydov)<br>
-3. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/pydov](https://github.com/GuillaumeVandekerckhove/pydov)<br>
-4. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/pydov](https://github.com/GuillaumeVandekerckhove/pydov)<br>
-5. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/pydov](https://github.com/GuillaumeVandekerckhove/pydov)<br>
+1. 💬 Commented on [#383](https://github.com/DOV-Vlaanderen/pydov/pull/383#discussion_r1178781688) in [DOV-Vlaanderen/pydov](https://github.com/DOV-Vlaanderen/pydov)<br>
+2. 💬 Commented on [#383](https://github.com/DOV-Vlaanderen/pydov/pull/383#discussion_r1178778664) in [DOV-Vlaanderen/pydov](https://github.com/DOV-Vlaanderen/pydov)<br>
+3. 💬 Commented on [#383](https://github.com/DOV-Vlaanderen/pydov/pull/383#discussion_r1178776897) in [DOV-Vlaanderen/pydov](https://github.com/DOV-Vlaanderen/pydov)<br>
+4. 💬 Commented on [#383](https://github.com/DOV-Vlaanderen/pydov/pull/383#discussion_r1178750322) in [DOV-Vlaanderen/pydov](https://github.com/DOV-Vlaanderen/pydov)<br>
+5. 🔴 Requested 1 change(s) for [#383](https://github.com/DOV-Vlaanderen/pydov/pull/383#pullrequestreview-1403391524) in [DOV-Vlaanderen/pydov](https://github.com/DOV-Vlaanderen/pydov)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 27th, 2023, 8:08:04 AM
+Last Updated: Thursday, April 27th, 2023, 9:06:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div><img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=highcontrast&hide_border=true"/>
