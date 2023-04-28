@@ -77,15 +77,15 @@ I'm a data analyst at 'Departement Omgeving'.
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#4](https://github.com/highcharts-for-python/highcharts-for-python-demos/issues/4#issuecomment-1527652876) in [highcharts-for-python/highcharts-for-python-demos](https://github.com/highcharts-for-python/highcharts-for-python-demos)<br>
-2. ❗️ Opened issue [#4](https://github.com/highcharts-for-python/highcharts-for-python-demos/issues/4) in [highcharts-for-python/highcharts-for-python-demos](https://github.com/highcharts-for-python/highcharts-for-python-demos)<br>
-3. 👍 Approved [#383](https://github.com/DOV-Vlaanderen/pydov/pull/383#pullrequestreview-1405873642) in [DOV-Vlaanderen/pydov](https://github.com/DOV-Vlaanderen/pydov)<br>
-4. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-5. 🤝 Became collaborator on [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+1. 🤝 Became collaborator on [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+2. 💬 Commented on [#4](https://github.com/highcharts-for-python/highcharts-for-python-demos/issues/4#issuecomment-1527652876) in [highcharts-for-python/highcharts-for-python-demos](https://github.com/highcharts-for-python/highcharts-for-python-demos)<br>
+3. ❗️ Opened issue [#4](https://github.com/highcharts-for-python/highcharts-for-python-demos/issues/4) in [highcharts-for-python/highcharts-for-python-demos](https://github.com/highcharts-for-python/highcharts-for-python-demos)<br>
+4. 👍 Approved [#383](https://github.com/DOV-Vlaanderen/pydov/pull/383#pullrequestreview-1405873642) in [DOV-Vlaanderen/pydov](https://github.com/DOV-Vlaanderen/pydov)<br>
+5. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 28th, 2023, 6:07:11 PM
+Last Updated: Friday, April 28th, 2023, 7:03:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div><img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=highcontrast&hide_border=true"/>
