@@ -73,15 +73,15 @@ I'm a data analyst at 'Departement Omgeving'.
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+1. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/GuillaumeVandekerckhove](https://github.com/GuillaumeVandekerckhove/GuillaumeVandekerckhove)<br>
 2. 🤝 Became collaborator on [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-3. 💬 Commented on [#4](https://github.com/highcharts-for-python/highcharts-for-python-demos/issues/4#issuecomment-1527652876) in [highcharts-for-python/highcharts-for-python-demos](https://github.com/highcharts-for-python/highcharts-for-python-demos)<br>
-4. ❗️ Opened issue [#4](https://github.com/highcharts-for-python/highcharts-for-python-demos/issues/4) in [highcharts-for-python/highcharts-for-python-demos](https://github.com/highcharts-for-python/highcharts-for-python-demos)<br>
-5. 👍 Approved [#383](https://github.com/DOV-Vlaanderen/pydov/pull/383#pullrequestreview-1405873642) in [DOV-Vlaanderen/pydov](https://github.com/DOV-Vlaanderen/pydov)<br>
+3. 🤝 Became collaborator on [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+4. 💬 Commented on [#4](https://github.com/highcharts-for-python/highcharts-for-python-demos/issues/4#issuecomment-1527652876) in [highcharts-for-python/highcharts-for-python-demos](https://github.com/highcharts-for-python/highcharts-for-python-demos)<br>
+5. ❗️ Opened issue [#4](https://github.com/highcharts-for-python/highcharts-for-python-demos/issues/4) in [highcharts-for-python/highcharts-for-python-demos](https://github.com/highcharts-for-python/highcharts-for-python-demos)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 2nd, 2023, 9:04:19 PM
+Last Updated: Tuesday, May 2nd, 2023, 10:05:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div><img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=highcontrast&hide_border=true"/>
