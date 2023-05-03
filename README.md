@@ -73,15 +73,15 @@ I'm a data analyst at 'Departement Omgeving'.
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#384](https://github.com/DOV-Vlaanderen/pydov/pull/384#issuecomment-1532567724) in [DOV-Vlaanderen/pydov](https://github.com/DOV-Vlaanderen/pydov)<br>
-2. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/GuillaumeVandekerckhove](https://github.com/GuillaumeVandekerckhove/GuillaumeVandekerckhove)<br>
-3. 🤝 Became collaborator on [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-4. 🤝 Became collaborator on [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-5. 💬 Commented on [#4](https://github.com/highcharts-for-python/highcharts-for-python-demos/issues/4#issuecomment-1527652876) in [highcharts-for-python/highcharts-for-python-demos](https://github.com/highcharts-for-python/highcharts-for-python-demos)<br>
+1. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/pydov](https://github.com/GuillaumeVandekerckhove/pydov)<br>
+2. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/pydov](https://github.com/GuillaumeVandekerckhove/pydov)<br>
+3. 💬 Commented on [#384](https://github.com/DOV-Vlaanderen/pydov/pull/384#issuecomment-1532567724) in [DOV-Vlaanderen/pydov](https://github.com/DOV-Vlaanderen/pydov)<br>
+4. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/GuillaumeVandekerckhove](https://github.com/GuillaumeVandekerckhove/GuillaumeVandekerckhove)<br>
+5. 🤝 Became collaborator on [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 3rd, 2023, 8:07:57 AM
+Last Updated: Wednesday, May 3rd, 2023, 9:05:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div><img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=highcontrast&hide_border=true"/>
