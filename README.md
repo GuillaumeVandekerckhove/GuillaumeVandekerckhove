@@ -75,13 +75,13 @@ I'm a data analyst at 'Departement Omgeving'.
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
 2. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-3. ⬆️ Pushed 5 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-4. 🎉 Merged PR [#8](https://github.com/DOV-Vlaanderen/pygada/pull/8) in [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-5. 👍 Approved [#8](https://github.com/DOV-Vlaanderen/pygada/pull/8#pullrequestreview-1414490969) in [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+3. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+4. ⬆️ Pushed 5 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+5. 🎉 Merged PR [#8](https://github.com/DOV-Vlaanderen/pygada/pull/8) in [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 8th, 2023, 12:11:15 PM
+Last Updated: Monday, May 8th, 2023, 1:08:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div><img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=highcontrast&hide_border=true"/>
