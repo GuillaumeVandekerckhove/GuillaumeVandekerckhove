@@ -11,6 +11,9 @@ I'm a data analyst at 'Departement Omgeving'.
 
 ### Language
 <a href="https://www.python.org/"/><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></a>
+<a href="https://www.javascript.com/"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+<a href="https://www.json.org/json-en.html"/><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/></a>
+<a href=""/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
 
 
 <details>
