@@ -36,6 +36,17 @@ I'm a data analyst at 'Departement Omgeving'.
   <a href="https://www.microsoft.com/nl-be/windows"/><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
   <a href="https://github.com/"/><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.atlassian.com/nl/software/jira"/><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/></a>
+  
+  <a href=""/><img src=""/></a>
+  <a href=""/><img src=""/></a>
+  <a href=""/><img src=""/></a>
+  <a href=""/><img src=""/></a>
+  <a href=""/><img src=""/></a>
+  
+  <a href="https://seaborn.pydata.org/index.html"/><img src=""/></a>
+  <a href="https://geopandas.org/en/stable/"/><img src=""/></a>
+  <a href="https://sgems.sourceforge.net/"/><img src=""/></a>
+  <a href="https://www.highcharts.com/"/><img src=""/></a>
   </p>
   
 
