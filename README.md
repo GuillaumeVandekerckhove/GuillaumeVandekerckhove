@@ -40,7 +40,8 @@ I'm a data analyst at 'Departement Omgeving'.
   <a href="https://scikit-learn.org/stable/"/><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
   <a href="https://www.tensorflow.org/"/><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
   <a href="https://keras.io/"/><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/></a>
-  <a href=""/><img src=""/></a>
+  <a href="https://www.atlassian.com/software/confluence"/><img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"/></a>
+  <a href="https://qgis.org/en/site/"/><img src="https://img.shields.io/badge/qgis-93b023?&style=for-the-badge&logo=qgis&logoColor=white"/></a>
   
   <a href="https://seaborn.pydata.org/index.html"/><img src=""/></a>
   <a href="https://geopandas.org/en/stable/"/><img src=""/></a>
