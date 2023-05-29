@@ -33,9 +33,17 @@ I'm a data analyst at 'Departement Omgeving'.
   <a href="https://numpy.org/"/><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/></a>
   <a href="https://pandas.pydata.org/"/><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/></a>
   <a href="https://scikit-learn.org/stable/"/><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
+  <a href="https://scipy.org/"/><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/></a>
   <a href="https://www.tensorflow.org/"/><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+  <a href="https://seaborn.pydata.org/index.html"/><img src="https://img.shields.io/badge/-seaborn-blue"/></a>
+  <a href="https://geopandas.org/en/stable/"/><img src="https://img.shields.io/badge/-geopandas-green"/></a>
+  <a href="https://www.highcharts.com/"/><img src="https://img.shields.io/badge/-Highcharts-9cf"/></a>
+  <a href="https://github.com/DOV-Vlaanderen/pydov"/><img src="https://img.shields.io/badge/-pydov-yellow"/></a>
+  <a href="https://github.com/DOV-Vlaanderen/pygada"/><img src="https://img.shields.io/badge/-pygada-yellow"/></a>
+  <a href="https://github.com/robinthibaut/pysgems"/><img src="https://img.shields.io/badge/-pysgems-lightgrey"/></a>
   
   <a href="https://qgis.org/en/site/"/><img src="https://img.shields.io/badge/qgis-93b023?&style=for-the-badge&logo=qgis&logoColor=white"/></a>
+  <a href="https://sgems.sourceforge.net/"/><img src="https://img.shields.io/badge/-SGeMS-lightgrey"/></a>
   
   <a href="https://www.microsoft.com/nl-be/windows"/><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
   
@@ -47,11 +55,6 @@ I'm a data analyst at 'Departement Omgeving'.
   <a href="https://www.microsoft.com/nl-be/microsoft-365"/><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/></a>
   <a href="https://prezi.com/"/><img src="https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white"/></a>
   <a href="https://wakatime.com/dashboard"/><img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white"/></a>
-  
-  <a href="https://seaborn.pydata.org/index.html"/><img src=""/></a>
-  <a href="https://geopandas.org/en/stable/"/><img src=""/></a>
-  <a href="https://sgems.sourceforge.net/"/><img src=""/></a>
-  <a href="https://www.highcharts.com/"/><img src=""/></a>
   </p>
   
 
@@ -86,7 +89,8 @@ I'm a data analyst at 'Departement Omgeving'.
 
 ![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuillaumeVandekerckhove&line=FFF000&theme=high-contrast&height=300&hide_border=true)
 
-    
+
+  
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 ⚡ Recent GitHub Activity</summary>
 
