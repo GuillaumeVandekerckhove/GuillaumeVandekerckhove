@@ -87,7 +87,7 @@ I'm a data analyst at 'Departement Omgeving'.
     
 [![Guillaume's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GuillaumeV&layout=compact&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 
-![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuillaumeVandekerckhove&line=FFF000&theme=high-contrast&height=300&hide_border=true)
+[![Guillaume's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuillaumeVandekerckhove&line=FFF000&theme=high-contrast&height=300&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
   
