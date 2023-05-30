@@ -90,8 +90,6 @@ I'm a data analyst at 'Departement Omgeving'.
 ```text
 From: 22 May 2023 - To: 29 May 2023
 
-Total Time: 4 hrs 32 mins
-
 Python                           ■■■■■■■■■■■■.............   47.94 %
 JavaScript                       ■■■■■■■■■................   34.59 %
 HTML                             ■■■......................   10.56 %
