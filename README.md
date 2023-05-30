@@ -85,12 +85,6 @@ I'm a data analyst at 'Departement Omgeving'.
 <details close> 
   <summary><h4>Stats</h4></summary>
     
-<!--[![Guillaume's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GuillaumeV&layout=compact&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GuillaumeVandek)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Guillaume's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuillaumeVandekerckhove&line=FFF000&theme=high-contrast&height=300&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <!--START_SECTION:waka-->
 
 ```text
@@ -110,6 +104,10 @@ YAML                             -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
+
+[![Guillaume's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuillaumeVandekerckhove&line=FFF000&theme=high-contrast&height=300&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
   
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 ⚡ Recent GitHub Activity</summary>
