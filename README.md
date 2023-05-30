@@ -92,6 +92,23 @@ I'm a data analyst at 'Departement Omgeving'.
 [![Guillaume's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuillaumeVandekerckhove&line=FFF000&theme=high-contrast&height=300&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 22 May 2023 - To: 29 May 2023
+
+Total Time: 4 hrs 32 mins
+
+Python                           ############-------------   47.94 %
+JavaScript                       #########----------------   34.59 %
+HTML                             ###----------------------   10.56 %
+JSON                             #------------------------   03.25 %
+GitIgnore file                   #------------------------   02.81 %
+TOML                             -------------------------   00.72 %
+CSS                              -------------------------   00.09 %
+Markdown                         -------------------------   00.03 %
+YAML                             -------------------------   00.00 %
+```
+
 <!--END_SECTION:waka-->
   
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
