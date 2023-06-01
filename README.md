@@ -113,15 +113,15 @@ YAML                             .........................   00.01 %
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1](https://github.com/GuillaumeVandekerckhove/GuillaumeVandekerckhove/issues/1) in [GuillaumeVandekerckhove/GuillaumeVandekerckhove](https://github.com/GuillaumeVandekerckhove/GuillaumeVandekerckhove)<br>
-2. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/xls2xml](https://github.com/DOV-Vlaanderen/xls2xml)<br>
+1. ⬆️ Pushed 2 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+2. ❗️ Opened issue [#1](https://github.com/GuillaumeVandekerckhove/GuillaumeVandekerckhove/issues/1) in [GuillaumeVandekerckhove/GuillaumeVandekerckhove](https://github.com/GuillaumeVandekerckhove/GuillaumeVandekerckhove)<br>
 3. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/xls2xml](https://github.com/DOV-Vlaanderen/xls2xml)<br>
 4. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/xls2xml](https://github.com/DOV-Vlaanderen/xls2xml)<br>
 5. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/xls2xml](https://github.com/DOV-Vlaanderen/xls2xml)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 1st, 2023, 7:06:31 AM
+Last Updated: Thursday, June 1st, 2023, 8:08:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div><img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=highcontrast&hide_border=true"/>
