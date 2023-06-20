@@ -111,15 +111,15 @@ YAML                               .........................   00.00 %
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 38 commit(s) to [GuillaumeVandekerckhove/pydov](https://github.com/GuillaumeVandekerckhove/pydov)<br>
-2. ⬆️ Pushed 38 commit(s) to [GuillaumeVandekerckhove/pydov](https://github.com/GuillaumeVandekerckhove/pydov)<br>
-3. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-4. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-5. 🤝 Became collaborator on [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+1. 💪 Opened PR [#389](https://github.com/DOV-Vlaanderen/pydov/pull/389) in [DOV-Vlaanderen/pydov](https://github.com/DOV-Vlaanderen/pydov)<br>
+2. ⬆️ Pushed 2 commit(s) to [GuillaumeVandekerckhove/pydov](https://github.com/GuillaumeVandekerckhove/pydov)<br>
+3. ⬆️ Pushed 38 commit(s) to [GuillaumeVandekerckhove/pydov](https://github.com/GuillaumeVandekerckhove/pydov)<br>
+4. ⬆️ Pushed 38 commit(s) to [GuillaumeVandekerckhove/pydov](https://github.com/GuillaumeVandekerckhove/pydov)<br>
+5. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 20th, 2023, 12:11:52 PM
+Last Updated: Tuesday, June 20th, 2023, 1:09:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div><img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=highcontrast&hide_border=true"/>
