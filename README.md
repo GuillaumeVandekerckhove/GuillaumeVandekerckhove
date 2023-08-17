@@ -113,14 +113,14 @@ ReST               0 secs          .........................   00.00 %
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-2. ⭐ Starred [DOV-Vlaanderen/xls2xml](https://github.com/DOV-Vlaanderen/xls2xml)<br>
-3. 💪 Opened PR [#392](https://github.com/DOV-Vlaanderen/pydov/pull/392) in [DOV-Vlaanderen/pydov](https://github.com/DOV-Vlaanderen/pydov)<br>
-4. ⬆️ Pushed 111 commit(s) to [GuillaumeVandekerckhove/pydov](https://github.com/GuillaumeVandekerckhove/pydov)<br>
-5. ⬆️ Pushed 111 commit(s) to [GuillaumeVandekerckhove/pydov](https://github.com/GuillaumeVandekerckhove/pydov)<br>
+2. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+3. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+4. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+5. ⭐ Starred [DOV-Vlaanderen/xls2xml](https://github.com/DOV-Vlaanderen/xls2xml)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 17th, 2023, 8:08:05 AM
+Last Updated: Thursday, August 17th, 2023, 9:05:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div><img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=highcontrast&hide_border=true"/>
