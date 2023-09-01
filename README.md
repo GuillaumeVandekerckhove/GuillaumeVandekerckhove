@@ -113,15 +113,15 @@ requirements.txt   1 min           .........................   00.15 %
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bodemenondergrond/codelijsten-bodemenondergrond-catalogus](https://github.com/bodemenondergrond/codelijsten-bodemenondergrond-catalogus)<br>
-2. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-3. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/pydov](https://github.com/GuillaumeVandekerckhove/pydov)<br>
+1. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+2. 💪 Opened PR [#12](https://github.com/DOV-Vlaanderen/pygada/pull/12) in [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+3. ⬆️ Pushed 31 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
 4. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-5. ⬆️ Pushed 16 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+5. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 1st, 2023, 11:04:03 AM
+Last Updated: Friday, September 1st, 2023, 12:10:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div><img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=highcontrast&hide_border=true"/>
