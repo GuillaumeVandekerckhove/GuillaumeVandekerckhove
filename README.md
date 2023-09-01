@@ -114,14 +114,14 @@ requirements.txt   1 min           .........................   00.15 %
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-2. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+2. 💪 Opened PR [#15](https://github.com/DOV-Vlaanderen/pygada/pull/15) in [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
 3. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-4. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
-5. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+4. ❌ Closed PR [#14](https://github.com/DOV-Vlaanderen/pygada/pull/14) in [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+5. ❌ Closed PR [#14](https://github.com/DOV-Vlaanderen/pygada/pull/14) in [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 1st, 2023, 6:07:01 PM
+Last Updated: Friday, September 1st, 2023, 7:03:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div><img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=highcontrast&hide_border=true"/>
