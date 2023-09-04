@@ -88,18 +88,18 @@ I'm a data analyst at 'Departement Omgeving'.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 August 2023 - To: 03 September 2023
+From: 28 August 2023 - To: 04 September 2023
 
-Python             9 hrs 22 mins   ■■■■■■■■■■■■.............   49.27 %
-Jupyter            5 hrs 51 mins   ■■■■■■■■.................   30.77 %
-reStructuredText   1 hr 42 mins    ■■.......................   09.02 %
-ReST               34 mins         ■........................   03.05 %
-SQL                22 mins         .........................   01.99 %
-requirements.txt   19 mins         .........................   01.73 %
-Text               17 mins         .........................   01.51 %
-Markdown           9 mins          .........................   00.86 %
-GitIgnore file     8 mins          .........................   00.75 %
-JSON               8 mins          .........................   00.74 %
+Python             6 hrs 55 mins   ■■■■■■■■■■■■■■■■.........   63.89 %
+Jupyter            2 hrs 24 mins   ■■■■■■...................   22.29 %
+reStructuredText   23 mins         ■........................   03.65 %
+SQL                22 mins         ■........................   03.50 %
+requirements.txt   18 mins         ■........................   02.81 %
+GitIgnore file     8 mins          .........................   01.32 %
+Text               6 mins          .........................   01.03 %
+ReST               3 mins          .........................   00.55 %
+YAML               3 mins          .........................   00.53 %
+Markdown           1 min           .........................   00.22 %
 ```
 
 <!--END_SECTION:waka-->
