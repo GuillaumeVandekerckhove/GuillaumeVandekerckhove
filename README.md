@@ -88,10 +88,15 @@ I'm a data analyst at 'Departement Omgeving'.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2023 - To: 26 October 2023
+From: 20 October 2023 - To: 27 October 2023
 
-XML          2 mins          ■■■■■■■■■■■■■■■■■■■■■■■■■   99.02 %
-JavaScript   0 secs          .........................   00.98 %
+Python       31 mins         ■■■■■■■■■■■■■■■■■........   66.15 %
+JSON         12 mins         ■■■■■■■..................   27.28 %
+XML          2 mins          ■........................   05.38 %
+Markdown     0 secs          .........................   01.00 %
+Jupyter      0 secs          .........................   00.12 %
+JavaScript   0 secs          .........................   00.05 %
+HTML         0 secs          .........................   00.00 %
 ```
 
 <!--END_SECTION:waka-->
