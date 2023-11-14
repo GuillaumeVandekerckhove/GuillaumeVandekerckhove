@@ -104,7 +104,7 @@ No activity tracked
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+1. 🤝 Became collaborator on [DOV-Vlaanderen/xls2xml](https://github.com/DOV-Vlaanderen/xls2xml)<br>
 2. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
 3. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
 4. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
@@ -112,7 +112,7 @@ No activity tracked
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 14th, 2023, 2:06:13 PM
+Last Updated: Tuesday, November 14th, 2023, 3:06:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div><img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=highcontrast&hide_border=true"/>
