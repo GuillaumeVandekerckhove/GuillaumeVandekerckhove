@@ -108,15 +108,15 @@ CSS        0 secs          .........................   00.00 %
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [DOV-Vlaanderen/xls2xml](https://github.com/DOV-Vlaanderen/xls2xml)<br>
-2. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
+1. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/xls2xml](https://github.com/DOV-Vlaanderen/xls2xml)<br>
+2. 🤝 Became collaborator on [DOV-Vlaanderen/xls2xml](https://github.com/DOV-Vlaanderen/xls2xml)<br>
 3. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
 4. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
 5. ⬆️ Pushed 1 commit(s) to [DOV-Vlaanderen/pygada](https://github.com/DOV-Vlaanderen/pygada)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 15th, 2023, 2:06:21 PM
+Last Updated: Friday, December 15th, 2023, 3:06:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div><img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=highcontrast&hide_border=true"/>
