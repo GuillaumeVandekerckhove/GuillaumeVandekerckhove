@@ -104,10 +104,12 @@ No activity tracked
 
 
 <!--RECENT_ACTIVITY:start-->
+1. 💪 Opened PR [#400](https://github.com/DOV-Vlaanderen/pydov/pull/400) in [DOV-Vlaanderen/pydov](https://github.com/DOV-Vlaanderen/pydov)<br>
+2. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/pydov](https://github.com/GuillaumeVandekerckhove/pydov)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 31st, 2024, 12:12:50 PM
+Last Updated: Friday, May 31st, 2024, 1:08:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div><img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=highcontrast&hide_border=true"/>
