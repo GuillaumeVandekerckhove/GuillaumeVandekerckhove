@@ -106,12 +106,13 @@ CSS      20 mins         ■■■■■....................   19.92 %
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#400](https://github.com/DOV-Vlaanderen/pydov/pull/400) in [DOV-Vlaanderen/pydov](https://github.com/DOV-Vlaanderen/pydov)<br>
-2. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/pydov](https://github.com/GuillaumeVandekerckhove/pydov)<br>
+1. 🤝 Became collaborator on [DOV-Vlaanderen/xls2xml](https://github.com/DOV-Vlaanderen/xls2xml)<br>
+2. 💪 Opened PR [#400](https://github.com/DOV-Vlaanderen/pydov/pull/400) in [DOV-Vlaanderen/pydov](https://github.com/DOV-Vlaanderen/pydov)<br>
+3. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/pydov](https://github.com/GuillaumeVandekerckhove/pydov)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 20th, 2024, 3:08:02 PM
+Last Updated: Thursday, June 20th, 2024, 4:10:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div><img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=highcontrast&hide_border=true"/>
