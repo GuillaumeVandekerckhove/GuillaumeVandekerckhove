@@ -88,7 +88,7 @@ I'm a data analyst at 'Departement Omgeving'.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2024 - To: 25 August 2024
+From: 19 August 2024 - To: 26 August 2024
 
 Python   1 min           ■■■■■■■■■■■■■■■■■■■■■■■■■   99.75 %
 HTML     0 secs          .........................   00.25 %
