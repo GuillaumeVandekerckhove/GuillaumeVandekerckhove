@@ -106,12 +106,10 @@ HTML     0 secs          .........................   00.25 %
 
 <!--RECENT_ACTIVITY:start-->
 1. 🤝 Became collaborator on [DOV-Vlaanderen/xls2xml](https://github.com/DOV-Vlaanderen/xls2xml)<br>
-2. 💪 Opened PR [#400](https://github.com/DOV-Vlaanderen/pydov/pull/400) in [DOV-Vlaanderen/pydov](https://github.com/DOV-Vlaanderen/pydov)<br>
-3. ⬆️ Pushed 1 commit(s) to [GuillaumeVandekerckhove/pydov](https://github.com/GuillaumeVandekerckhove/pydov)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 1st, 2024, 2:16:41 AM
+Last Updated: Sunday, September 1st, 2024, 3:15:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div><img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GuillaumeVandekerckhove&show_icons=true&theme=highcontrast&hide_border=true"/>
