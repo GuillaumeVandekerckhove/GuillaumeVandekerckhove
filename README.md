@@ -88,14 +88,14 @@ I'm a data analyst at 'Departement Omgeving'.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2024 - To: 05 January 2025
+From: 30 December 2024 - To: 06 January 2025
 
-Jupyter      3 hrs 38 mins   ■■■■■■■■■■■■■■■..........   58.76 %
-Python       1 hr 53 mins    ■■■■■■■■.................   30.44 %
-HTML         35 mins         ■■.......................   09.58 %
-JavaScript   3 mins          .........................   00.96 %
-Text         0 secs          .........................   00.17 %
-CSS          0 secs          .........................   00.08 %
+Jupyter      2 hrs 47 mins   ■■■■■■■■■■■■■............   52.38 %
+Python       1 hr 51 mins    ■■■■■■■■■................   35.05 %
+HTML         35 mins         ■■■......................   11.16 %
+JavaScript   3 mins          .........................   01.12 %
+Text         0 secs          .........................   00.20 %
+CSS          0 secs          .........................   00.09 %
 JSON         0 secs          .........................   00.00 %
 ```
 
