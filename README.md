@@ -88,9 +88,11 @@ I'm a data analyst at 'Departement Omgeving'.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2025 - To: 24 January 2025
+From: 18 January 2025 - To: 25 January 2025
 
-No activity tracked
+Python   36 mins         ■■■■■■■■■■■■■■■■■■■■■■■■.   94.45 %
+CSS      2 mins          ■........................   05.55 %
+HTML     0 secs          .........................   00.00 %
 ```
 
 <!--END_SECTION:waka-->
