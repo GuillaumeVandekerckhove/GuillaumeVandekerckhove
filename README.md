@@ -88,7 +88,7 @@ I'm a data analyst at 'Departement Omgeving'.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2025 - To: 12 February 2025
+From: 06 February 2025 - To: 13 February 2025
 
 Jupyter   1 hr 35 mins    ■■■■■■■■■■■■■■■■■■■■■■...   89.84 %
 Python    8 mins          ■■.......................   07.81 %
